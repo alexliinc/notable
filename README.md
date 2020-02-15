@@ -10,6 +10,11 @@ Run command to start project
 ./mvnw spring-boot:run
 ```
 
+Run command to get war file
+```bash
+./mvnw package
+```
+
 
 ### Local Host
 
