@@ -14,4 +14,5 @@ Run command to start project
 ### Local Host
 
 1. project is available on `localhost:9999`
+2. time parameter entered like such `11:15:00`
 
