@@ -20,6 +20,6 @@ Run command to get war file
 
 1. project is available on `localhost:9999`
 2. time parameter entered like such `11:15:00`
-3 [Code](https://github.com/alexliinc/notable/tree/master/test/src/main/java/com/notable/test)
+3. [All the code](https://github.com/alexliinc/notable/tree/master/test/src/main/java/com/notable/test)
 
 
